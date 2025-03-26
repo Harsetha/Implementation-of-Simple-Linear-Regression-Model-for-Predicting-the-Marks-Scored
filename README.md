@@ -79,12 +79,15 @@ print("RMSE = ",rmse)
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 TRAINING SET:
+
 ![363060378-2e450af3-e206-4b55-b7e4-ca87b65a9a68](https://github.com/user-attachments/assets/fbce205b-5a5c-4638-9b50-4979bc7a3075)
 
 TEST SET:
+
 ![363060495-2c896797-52df-4b23-8780-47f25bd58f43](https://github.com/user-attachments/assets/45826fa6-303c-46d7-922e-9f28dede0868)
 
 MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE:
+
 ![363103157-1f07520b-d4c7-4681-a04c-d6133f20952e](https://github.com/user-attachments/assets/b872a654-587e-4ade-8fd2-5c0f7d77d812)
 
 ## Result:
