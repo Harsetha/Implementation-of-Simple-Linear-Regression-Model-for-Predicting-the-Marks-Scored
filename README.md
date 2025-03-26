@@ -27,12 +27,6 @@ RegisterNumber: 212223220032
 */
 ```
 ```
-
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by:  Roshini S
-RegisterNumber: 212223230174
-
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
